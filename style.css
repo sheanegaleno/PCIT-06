@@ -1,0 +1,92 @@
+#banner {
+    height: 90vh;
+    background: linear-gradient(to right, hsla(0, 2%, 17%, 0.856), rgba(44, 42, 42, 0.315)),url('download.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    text-emphasis-color: aqua;
+
+}
+
+.btn {
+    padding: 15px 30px;
+    font-weight: 900;
+    border-radius: 60px;
+    font-size: 18px;
+    transition: all 0.4s ease;
+    
+
+}
+
+.btn-brand {
+    background-color: rgb(71, 131, 14);
+    color: #FFF;
+    border: 2px solid #eee3e3;
+}
+
+.btn-brand:hover {
+    background-color: transparent;
+    color: #FFF;
+    border: 2px solid #FFF;
+}
+section{
+    padding: 100px 0;
+
+    
+}
+#about h2{
+    font-size: 55px;
+    font-weight: 900;
+    color: rgb(255, 0, 0);
+    -webkit-text-stroke-color: 2px;
+    -webkit-text-stroke-width: white;
+
+}
+#about .btn-brand:hover{
+    color: black !important;
+    border-color: black !important;
+    
+}
+#about{
+    background-color: rbg(255,255,255);
+}
+.gwapa-me{
+    width: 50%;
+}
+#services .btn-brand:hover{
+    color: black !important;
+    border-color: black !important;
+    
+}
+.card {
+    transition: 0.3s, color 0.3s;
+    border: 5PX SOLID var(--border);
+    box-shadow: 0 0 10px rgb(0, 0, 0, 0.2);
+    border-radius: 30px;
+  
+}
+.card:hover{
+    background-color: black;
+}
+.card:hover .car-text,
+.card:hover .card-text,
+.card:hover.btn{
+    color: white;
+}
+#about h2{
+    font-size: 55px;
+    font-weight: 900;
+    color: rgb(255, 0, 0);
+    -webkit-text-stroke-color: 2px;
+    -webkit-text-stroke-width: white;
+
+}
+#services{
+    font-size: 55px;
+    font-weight: 900;
+    color: rgb(255, 0, 0);
+    -webkit-text-stroke-color: 2px;
+    -webkit-text-stroke-width: white;
+
+}
