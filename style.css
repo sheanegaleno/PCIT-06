@@ -38,7 +38,7 @@ section{
 #about h2{
     font-size: 55px;
     font-weight: 900;
-    color: rgb(255, 0, 0);
+    color: black;
     -webkit-text-stroke-color: 2px;
     -webkit-text-stroke-width: white;
 
